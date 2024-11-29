@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+ <h1>HELLO WORLD</h1>
+ <h2>HELLO WORLD</h2>
+ <h3>HELLO WORLD</h3>
+ <img src="https://images.pexels.com/photos/1172064/pexels-photo-1172064.jpeg?auto=compress&cs=tinysrgb&w=600" width="300px" height="300px">
+ 
+ <img src="https://images.pexels.com/photos/1172064/pexels-photo-1172064.jpeg?auto=compress&cs=tinysrgb&w=600" width="500" height="500" >
+ <a href="https://www.nasa.gov/" taget="_blank">NASA LATEST RELEASE</a>
+ <form action="">
+    <label for="name">Name:</label>
+    <input type="text">
+    <br>
+    <label for="">email</label>
+    <input type="email">
+    <br>
+    <label for="password">Password</label>
+    <input type="password" name="" id="">
+    <br>
+    <label for="DOB">Date Of Birth</label>
+    <input type="date">
+    <br>
+    <label for="">Enter your message</label>
+    <textarea name="" id=""></textarea>
+    <br>
+    <h1>H<sub>2</sub>SO <sub>4</sub                  </h1>
+        <h1>10 <sup>16</sup>                    </h1>
+ </form>
+
+
+</body>
+</html>
